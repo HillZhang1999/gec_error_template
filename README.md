@@ -1,10 +1,10 @@
 # Error Templates for Grammatical Error Correction
-Code for the paper: "[Mining Error Templates for Grammatical Error Correction](arxiv.com)". If you use any part of this work, please cite our paper:
+Code for the paper: "[Mining Error Templates for Grammatical Error Correction](https://arxiv.org/abs/2206.11569)". If you use any part of this work, please cite our paper:
 ```
 @article{zhang2022templates,
   title={Mining Error Templates for Grammatical Error Correction}, 
   author={Yue Zhang and Haochen Jiang and Zuyi Bao and Bo Zhang and Chen Li and Zhenghua Li},
-  journal={arXiv preprint arXiv:2206.xxxxx},
+  journal={arXiv preprint arXiv:2206.11569},
   year={2022}
 }
 ```
